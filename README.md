@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Exirox
+- 👀 I’m interested in web designing
+- 🌱 I’m currently learning Javascript/React
+- 📫 How to reach me : Discord : Exirox#5962
